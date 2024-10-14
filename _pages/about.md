@@ -12,7 +12,7 @@ I'm a first-year PhD student at Department of Automation, Tsinghua University. I
 
 Email: ytz24@mails.tsinghua.edu.cn
 
-Publications: [Publications](https://ytianzhu.github.io/publications/)
+Publications: [Publications](https://scholar.google.com/citations?user=7X8BCBsAAAAJ)
 
 ## Education
 - Ph.D. student, Tsinghua University (2024 - )
