@@ -16,10 +16,15 @@ Google Scholar: [GS](https://scholar.google.com/citations?user=7X8BCBsAAAAJ)
 
 ## Publications
 
-- Agent Attention: On the Integration of Softmax and Linear Attention
+- <span style="color:#072A6C">Differential Transformer</span>    
+**Tianzhu Ye***, Li Dong*, Yuqing Xia*, Yutao Sun*, Yi Zhu, Gao Huang, Furu Wei  
+*International Conference on Learning Representations (ICLR), 2025 (Oral)*  
+[paper](https://arxiv.org/abs/2410.05258) | [code](https://aka.ms/Diff-Transformer)  
+
+- Agent Attention: On the Integration of Softmax and Linear Attention  
 Dongchen Han*, **Tianzhu Ye***, Yizeng Han, Zhuofan Xia, Siyuan Pan, Pengfei Wan, Shiji Song, Gao Huang  
-*European Conference on Computer Vision (ECCV), 2024*
-[paper](https://arxiv.org/abs/2312.08874) | [code](https://github.com/LeapLabTHU/Agent-Attention)
+*European Conference on Computer Vision (ECCV), 2024*  
+[paper](https://arxiv.org/abs/2312.08874) | [code](https://github.com/LeapLabTHU/Agent-Attention)  
 
 ## Education
 - Ph.D. student, Tsinghua University (2024 - )
