@@ -14,6 +14,13 @@ Email: ytz24@mails.tsinghua.edu.cn
 
 Google Scholar: [GS](https://scholar.google.com/citations?user=7X8BCBsAAAAJ)
 
+## Publications
+
+Agent Attention: On the Integration of Softmax and Linear Attention
+Dongchen Han, **Tianzhu Ye**, Yizeng Han, Zhuofan Xia, Siyuan Pan, Pengfei Wan, Shiji Song, Gao Huang  
+European Conference on Computer Vision (ECCV), 2024  
+[paper](https://arxiv.org/abs/2312.08874) | [code](https://github.com/LeapLabTHU/Agent-Attention)
+
 ## Education
 - Ph.D. student, Tsinghua University (2024 - )
 - Undergrauate student, Tsinghua University (2020 - 2024)
