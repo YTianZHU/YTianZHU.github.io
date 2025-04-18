@@ -14,7 +14,7 @@ Email: ytz24@mails.tsinghua.edu.cn
 
 Google Scholar: [GS](https://scholar.google.com/citations?user=7X8BCBsAAAAJ)
 
-## Publications
+## Selected Publications
 
 - <span style="color:#004B6B">Differential Transformer</span>    
 **Tianzhu Ye**, Li Dong, Yuqing Xia, Yutao Sun, Yi Zhu, Gao Huang, Furu Wei  
