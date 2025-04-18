@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 ## About Me
-I'm a first-year PhD student at Department of Automation, Tsinghua University. I'm advised by [Gao Huang](https://www.gaohuang.net/). My research interest lies in developing stronger AI foundation models.
+I'm a first-year PhD student in Department of Automation at Tsinghua University, advised by [Gao Huang](https://www.gaohuang.net/). I also work as a research intern with Natural Language Computing Group at Microsoft Research Asia, mentored by [Li Dong](https://dong.li/). My research focuses on building more capable and generalizable AI foundation models.
 
 Email: ytz24@mails.tsinghua.edu.cn
 
-Publications: [Publications](https://scholar.google.com/citations?user=7X8BCBsAAAAJ)
+Google Scholar: [GS](https://scholar.google.com/citations?user=7X8BCBsAAAAJ)
 
 ## Education
 - Ph.D. student, Tsinghua University (2024 - )
