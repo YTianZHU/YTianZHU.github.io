@@ -16,7 +16,7 @@ Google Scholar: [GS](https://scholar.google.com/citations?user=7X8BCBsAAAAJ)
 
 ## Selected Publications
 
-- <span style="color:#004B6B">Differential Transformer</span>    
+- [<span style="color:#004B6B">Differential Transformer</span>](https://arxiv.org/abs/2410.05258)  
 **Tianzhu Ye**, Li Dong, Yuqing Xia, Yutao Sun, Yi Zhu, Gao Huang, Furu Wei  
 *International Conference on Learning Representations (ICLR), 2025 (**Oral**)*  
 [paper](https://arxiv.org/abs/2410.05258) | [code](https://aka.ms/Diff-Transformer)  
