@@ -17,17 +17,17 @@ Google Scholar: [GS](https://scholar.google.com/citations?user=7X8BCBsAAAAJ)
 ## Selected Publications
 
 - <span style="color:#004B6B">Differential Transformer</span>  
-**Tianzhu Ye**, Li Dong, Yuqing Xia, Yutao Sun, Yi Zhu, Gao Huang, Furu Wei  
+**Tianzhu Ye**\*, Li Dong\*, Yuqing Xia\*, Yutao Sun\*, Yi Zhu, Gao Huang, Furu Wei  
 *International Conference on Learning Representations (ICLR), 2025 (**Oral**)*  
 [paper](https://arxiv.org/abs/2410.05258) | [code](https://aka.ms/Diff-Transformer)  
 
 - <span style="color:#004B6B">Agent Attention: On the Integration of Softmax and Linear Attention</span>  
-Dongchen Han, **Tianzhu Ye**, Yizeng Han, Zhuofan Xia, Siyuan Pan, Pengfei Wan, Shiji Song, Gao Huang  
+Dongchen Han\*, **Tianzhu Ye**\*, Yizeng Han, Zhuofan Xia, Siyuan Pan, Pengfei Wan, Shiji Song, Gao Huang  
 *European Conference on Computer Vision (ECCV), 2024*  
 [paper](https://arxiv.org/abs/2312.08874) | [code](https://github.com/LeapLabTHU/Agent-Attention)
 
 - <span style="color:#004B6B">Slide-Transformer: Hierarchical Vision Transformer with Local Self-Attention</span>  
-Xuran Pan, **Tianzhu Ye**, Zhuofan Xia, Shiji Song, Gao Huang  
+Xuran Pan\*, **Tianzhu Ye**\*, Zhuofan Xia, Shiji Song, Gao Huang  
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023*  
 [paper](https://arxiv.org/abs/2304.04237) | [code](https://github.com/LeapLabTHU/Slide-Transformer)
 
