@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Tianzhu Ye"
 title_separator          : "-"
 name                     : &name "Tianzhu Ye"
-description              : &description "PhD student at Tsinghua University"
+description              : &description "Student at Tsinghua University"
 url                      : https://YTianZHU.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YTianZHU/YTianZHU.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "my_profile.png"
   name             : "Tianzhu Ye"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student at Tsinghua University"
+  bio              : "Student at Tsinghua University"
   location         : "Beijing, China"
   employer         : "Tsinghua University"
   uri              : # URL
-  email            : "ytz24@mails.tsinghua.edu.cn" 
+  email            : "yetianzhu2022@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
