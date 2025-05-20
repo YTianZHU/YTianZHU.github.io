@@ -8,9 +8,12 @@ redirect_from:
 ---
 
 ## About Me
-I'm a first-year PhD student in Department of Automation at Tsinghua University, advised by [Gao Huang](https://www.gaohuang.net/). I also work as a research intern with Natural Language Computing group at Microsoft Research Asia, mentored by [Li Dong](https://dong.li/). My research focuses on building more capable and generalizable AI foundation models.
+<!-- I'm a first-year PhD student in Department of Automation at Tsinghua University, advised by [Gao Huang](https://www.gaohuang.net/). I also work as a research intern with Natural Language Computing group at Microsoft Research Asia, mentored by [Li Dong](https://dong.li/). My research focuses on building more capable and generalizable AI foundation models. -->
 
-Email: ytz24@mails.tsinghua.edu.cn
+My research focuses on building more capable and generalizable AI foundation models. I work as a research intern with [GenAI](https://www.microsoft.com/en-us/research/group/general-artificial-intelligence/) group at Microsoft Research Asia, mentored by [Li Dong](https://dong.li/). 
+
+<!-- Email: ytz24@mails.tsinghua.edu.cn -->
+Email: yetianzhu2022@gmail.com
 
 Google Scholar: [GS](https://scholar.google.com/citations?user=7X8BCBsAAAAJ)
 
@@ -32,7 +35,7 @@ Xuran Pan\*, **Tianzhu Ye**\*, Zhuofan Xia, Shiji Song, Gao Huang
 [paper](https://arxiv.org/abs/2304.04237) | [code](https://github.com/LeapLabTHU/Slide-Transformer)
 
 ## Education
-- Ph.D. student, Tsinghua University (2024 - )
+<!-- - Ph.D. student, Tsinghua University (2024 - ) -->
 - Undergrauate student, Tsinghua University (2020 - 2024)
 
 ## Internship
