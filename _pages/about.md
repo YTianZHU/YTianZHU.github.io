@@ -32,10 +32,6 @@ Xuran Pan\*, **Tianzhu Ye**\*, Zhuofan Xia, Shiji Song, Gao Huang
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023*  
 [Paper](https://arxiv.org/abs/2304.04237) | [Code](https://github.com/LeapLabTHU/Slide-Transformer)
 
-- <span style="color:#004B6B">Joint Token Pruning and Squeezing Towards More Aggressive Compression of Vision Transformers</span>  
-Siyuan Wei\*, **Tianzhu Ye**\*, Shen Zhang, Yao Tang, Jiajun Liang  
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023*  
-[Paper](https://arxiv.org/abs/2304.10716) | [Code](https://github.com/megvii-research/TPS-CVPR2023)
 
 ## Education
 - Undergrauate student, Tsinghua University (2020 - 2024)
