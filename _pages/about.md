@@ -9,9 +9,9 @@ redirect_from:
 
 ## About Me
 
-My research focuses on building more capable and generalizable AI foundation models.
+I'm a researcher at Microsoft Research Asia. My research focuses on building more capable and generalizable AI foundation models.
 
-Email: yetianzhu2022@gmail.com
+Email: tianzhuye@microsoft.com
 
 Google Scholar: [GS](https://scholar.google.com/citations?user=7X8BCBsAAAAJ)
 
@@ -33,9 +33,10 @@ Xuran Pan\*, **Tianzhu Ye**\*, Zhuofan Xia, Shiji Song, Gao Huang
 [Paper](https://arxiv.org/abs/2304.04237) | [Code](https://github.com/LeapLabTHU/Slide-Transformer)
 
 
-## Education
+## Career and Education
+- Researcher, Microsoft Research (2026 - )
 - Undergrauate student, Tsinghua University (2020 - 2024)
 
 ## Internship
-- Research intern, GenAI at Microsoft Research Asia, mentored by [Li Dong](https://dong.li/) (2023 - )
+- Research intern, GenAI at Microsoft Research Asia, mentored by [Li Dong](https://dong.li/) (2023 - 2025)
 - Research intern, Megvii Technology (2022 - 2023)
