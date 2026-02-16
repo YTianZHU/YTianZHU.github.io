@@ -12,7 +12,8 @@ redirect_from:
 I'm a researcher at Microsoft Research Asia. My research focuses on building more capable and generalizable AI foundation models.
 
 Email: tianzhuye@microsoft.com
-Email: yetianzhu2022@gmail.com
+
+Secondary Email: yetianzhu2022@gmail.com
 
 Google Scholar: [GS](https://scholar.google.com/citations?user=7X8BCBsAAAAJ)
 
