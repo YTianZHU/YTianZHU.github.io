@@ -16,7 +16,7 @@ If you're interested in a research internship, feel free to reach out via email.
 Email: tianzhuye@microsoft.com  
 Secondary Email: yetianzhu2022@gmail.com
 
-Google Scholar: [GS](https://scholar.google.com/citations?user=7X8BCBsAAAAJ)
+[Google Scholar](https://scholar.google.com/citations?user=7X8BCBsAAAAJ)
 
 ## Blogs
 
