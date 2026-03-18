@@ -11,8 +11,8 @@ redirect_from:
 
 I'm a researcher at Microsoft Research Asia.  
 My research interests: building more capable and generalizable AI foundation models; self-improving AI with online learning and continual learning.  
-If you're interested in a research internship, feel free to reach out via email.
 
+If you're interested in a research internship, feel free to reach out via email.  
 Email: tianzhuye@microsoft.com  
 Secondary Email: yetianzhu2022@gmail.com
 
