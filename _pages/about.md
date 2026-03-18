@@ -27,16 +27,16 @@ Google Scholar: [GS](https://scholar.google.com/citations?user=7X8BCBsAAAAJ)
 ## Selected Publications
 
 - <span style="color:#004B6B">Online Experiential Learning for Language Models</span>  
-**Tianzhu Ye**, Li Dong, Qingxiu Dong, Xun Wu, Shaohan Huang, Furu Wei
-[Paper](https://arxiv.org/abs/2603.16856) | [Code](https://aka.ms/oel-code)
+**Tianzhu Ye**, Li Dong, Qingxiu Dong, Xun Wu, Shaohan Huang, Furu Wei  
+[Paper](https://arxiv.org/abs/2603.16856) | [Code](https://aka.ms/oel-code)  
 
 - <span style="color:#004B6B">On-Policy Context Distillation for Language Models</span>  
-**Tianzhu Ye**, Li Dong, Xun Wu, Shaohan Huang, Furu Wei
-[Paper](https://arxiv.org/abs/2602.12275) | [Code](https://aka.ms/opcd-code)
+**Tianzhu Ye**, Li Dong, Xun Wu, Shaohan Huang, Furu Wei  
+[Paper](https://arxiv.org/abs/2602.12275) | [Code](https://aka.ms/opcd-code)  
 
-- <span style="color:#004B6B">Black-Box On-Policy Distillation of Large Language Models</span>  
-**Tianzhu Ye**, Li Dong, Zewen Chi, Xun Wu, Shaohan Huang, Furu Wei 
-[Paper](https://arxiv.org/abs/2511.10643) | [Code](https://aka.ms/GAD-github)
+- <span style="color:#004B6B">Black-Box On-Policy Distillation of Large Language Models</span>   
+**Tianzhu Ye**, Li Dong, Zewen Chi, Xun Wu, Shaohan Huang, Furu Wei  
+[Paper](https://arxiv.org/abs/2511.10643) | [Code](https://aka.ms/GAD-github)  
 
 - <span style="color:#004B6B">Differential Transformer</span>  
 **Tianzhu Ye**, Li Dong, Yuqing Xia, Yutao Sun, Yi Zhu, Gao Huang, Furu Wei  
