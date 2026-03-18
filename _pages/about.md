@@ -20,8 +20,8 @@ Google Scholar: [GS](https://scholar.google.com/citations?user=7X8BCBsAAAAJ)
 ## Blogs
 
 - <span style="color:#004B6B">Differential Transformer V2</span>  
-**Tianzhu Ye**, Li Dong, Yutao Sun, Furu Wei
-[Blog](https://aka.ms/diff-transformer-v2) | [Code](https://github.com/microsoft/unilm/blob/master/Diff-Transformer/Diff-Transformer-V2)
+**Tianzhu Ye**, Li Dong, Yutao Sun, Furu Wei  
+[Blog](https://aka.ms/diff-transformer-v2) | [Code](https://github.com/microsoft/unilm/blob/master/Diff-Transformer/Diff-Transformer-V2)  
 
 
 ## Selected Publications
