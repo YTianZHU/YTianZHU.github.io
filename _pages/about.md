@@ -27,6 +27,10 @@ Secondary Email: yetianzhu2022@gmail.com
 
 ## Selected Publications
 
+- <span style="color:#004B6B">LLM-as-a-Coach: Experiential Learning for Non-Verifiable Tasks</span>  
+**Tianzhu Ye**, Li Dong, Guanheng Chen, He Zhu, Xun Wu, Shaohan Huang, Furu Wei  
+[Paper](https://arxiv.org/abs/2607.18110) | [Code](https://aka.ms/el-code)  
+
 - <span style="color:#004B6B">Online Experiential Learning for Language Models</span>  
 **Tianzhu Ye**, Li Dong, Qingxiu Dong, Xun Wu, Shaohan Huang, Furu Wei  
 [Paper](https://arxiv.org/abs/2603.16856) | [Code](https://aka.ms/oel-code)  
